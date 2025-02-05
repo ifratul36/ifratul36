@@ -1,8 +1,3 @@
-<a href="https://i.ibb.co/BKYTrHT8/github-img.jpg" target="_blank">
-    <img src="https://i.ibb.co/BKYTrHT8/github-img.jpg" height="400" alt="image" />
-</a>
-
-
 <h1 align="center">Hello There..👋🏽 I am Ifratul Jannat Ritu!</h1>
 
 ###
