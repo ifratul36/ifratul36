@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="640" width="320" src="https://i.ibb.co.com/bj1rwJR7/ritu.jpg"  />
+  <img height="350" width="700" src="https://i.ibb.co.com/bj1rwJR7/ritu.jpg"  />
 </div>
 
 ###
