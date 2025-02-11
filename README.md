@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="3840" width="2160" src="https://i.ibb.co.com/8nHFYfjT/IFRATUL-2.jpg"  />
+  <img height="350" width="700" src="https://i.ibb.co.com/8nHFYfjT/IFRATUL-2.jpg"  />
 </div>
 
 ###
