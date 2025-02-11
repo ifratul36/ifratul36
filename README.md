@@ -1,12 +1,16 @@
+<div align="center">
+  <img height="300" src="https://i.ibb.co.com/k2mLLfF3/18e67982-2dfd-4bab-986d-8d00b553ab45.jpg"  />
+</div>
+
+###
+
 <h1 align="center">Hello There..👋🏽 I am Ifratul Jannat Ritu!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifratul36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
-<a href="https://github.com/ifratul36" target="_blank">
-   <img src="https://streak-stats.demolab.com?user=ifratul36&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ifratul36&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifratul36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -23,28 +27,46 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">Frontend Development</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="41" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="41" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="41" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="41" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="41" alt="express logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="41" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
+</div>
+
+###
+
+<h2 align="center">Backend Development</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" alt="express logo"  />
+</div>
+
+###
+
+<h2 align="center">Database</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase logo"  />
 </div>
 
 ###
@@ -54,9 +76,13 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="41" alt="facebook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="42" alt="facebook logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="41" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" alt="linkedin logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ifratul36/ifratul36/output/snake.svg" alt="Snake animation" />
 
 ###
